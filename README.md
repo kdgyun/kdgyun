@@ -1,4 +1,11 @@
-### Hi there 👋
+### Thank you for visiting 👋👋👋
+-----------------------------
+
+</br>
+<p>🌱방문해주신 모든 분들 행복한 하루 되시길 바랍니다 :) 🌱</p>
+<p>✨I hope everyone who visits are happy day✨</p>
+
+</br></br>
 
 <!--
 **kdgyun/kdgyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
