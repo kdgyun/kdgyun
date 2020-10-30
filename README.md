@@ -1,4 +1,4 @@
-### Thank you for visiting 👋👋👋
+### Thank you for visiting 👋👋👋 &emsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdgyun&count_bg=%233DC8C1&title_bg=%23285C8C&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 -----------------------------
 
 </br>
