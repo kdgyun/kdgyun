@@ -1,4 +1,4 @@
-<span align="left"> Thank you for visiting 👋👋👋<span align="right">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdgyun&count_bg=%233DC8C1&title_bg=%23285C8C&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) </span></span>
+### Thank you for visiting 👋👋👋   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdgyun&count_bg=%233DC8C1&title_bg=%23285C8C&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false" align="right"></a>
 -----------------------------
 
 </br>
