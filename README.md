@@ -3,7 +3,7 @@
 
 </br>
 <p>🌱방문해주신 모든 분들 행복한 하루 되시길 바랍니다 :) 🌱</p>
-<p>✨I hope everyone who visits are happy day :) ✨</p>
+<p>✨hope everyone is having a great day :) ✨</p>
 
 </br></br>
 
