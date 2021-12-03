@@ -51,7 +51,7 @@
 
 </br></br></br></br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&count_private=true&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&count_private=true&langs_count=8&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
