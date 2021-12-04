@@ -1,6 +1,6 @@
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=FFD1B7&height=300&&section=header&text=kdgyun's&fontSize=27&fontAlign=85&rotate=20&fontAlignY=-10&fontColor=666666&desc=github&descAlignY=2&descAlign=92" align="middle"/>
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=FFD1B7&height=300&&section=header&text=kdgyun's&fontSize=27&fontAlign=85&rotate=20&fontAlignY=43&fontColor=666666&desc=github&descAlignY=52&descAlign=92" align="middle"/>
 
 <br/>
 <br/><br/><br/>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MsSQLr-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
