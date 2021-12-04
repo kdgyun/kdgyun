@@ -64,7 +64,7 @@
 </br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://st-lab.tistory.com"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://st-lab.tistory.com"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=stlab.strangers@gmail.com"/></a>&nbsp 
 </p>
 
