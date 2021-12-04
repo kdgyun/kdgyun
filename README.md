@@ -29,7 +29,7 @@
 
 
 </br></br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdgyun&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdgyun&count_private=true&show_icons=true&theme=swift)
 
 </br></br>
 
@@ -37,13 +37,13 @@
 
 <br/>
 <a href="https://github.com/kdgyun/Sorting_Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdgyun&repo=Sorting_Algorithm&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdgyun&repo=Sorting_Algorithm&theme=swift" />
 </a>
 <a href="https://github.com/kdgyun/Data_Structure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdgyun&repo=Data_Structure&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdgyun&repo=Data_Structure&theme=swift" />
 </a>
 <a href="https://github.com/kdgyun/Algorithm_Judge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdgyun&repo=Algorithm_Judge&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdgyun&repo=Algorithm_Judge&theme=swift" />
 </a>
 
 
@@ -51,7 +51,7 @@
 
 </br></br></br></br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&count_private=true&langs_count=8&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&count_private=true&langs_count=8&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
