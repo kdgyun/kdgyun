@@ -46,7 +46,8 @@
   <img src="https://img.shields.io/badge/MsSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Azure-333664?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp 
