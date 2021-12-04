@@ -1,6 +1,6 @@
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=FFD1B7&height=200&&section=header&text=kdgyun's%20github&fontSize=60&fontColor=666666" align="middle"/>
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=FFD1B7&height=300&&section=header&text=kdgyun's&fontSize=27&fontAlign=85&rotate=20&fontAlignY=-10&fontColor=666666&desc=github&descAlignY=2&descAlign=92" align="middle"/>
 
 <br/>
 <br/><br/><br/>
@@ -111,7 +111,11 @@
 
 
 
-<br/><br/><br/><br/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=A4C3FF&height=300&&section=footer&fontSize=60&fontColor=666666" align="middle"/>
+
+<br/><br/>
 
 <!--
 **kdgyun/kdgyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
