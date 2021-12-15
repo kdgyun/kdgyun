@@ -1,7 +1,7 @@
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=FFD1B7&height=300&&section=header&text=kdgyun's&fontSize=27&fontAlign=85&rotate=20&fontAlignY=43&fontColor=666666&desc=github&descAlignY=52&descAlign=92" align="middle"/>
-
+<div style="position:relative; left:0; top:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6468&height=220&&section=header&text=Hello! &fontSize=60&fontAlignY=32&fontColor=fefefe&desc=Thanks for Visiting! & &descSize=40&descAlignY=55" style="position:relative; top:0 align="middle"/>
+</div>
 <br/>
 <br/><br/><br/>
 
@@ -9,7 +9,7 @@
 
 <br/><br/><br/>
 
-<h3 align="center"> Thank you for visiting 👋👋👋   </h3>
+<h3 align="center"> what is? &nbsp It's kdgyun's github! 👋👋👋   </h3>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdgyun&count_bg=%23F9DAA3&title_bg=%23FF837D&icon=github.svg&icon_color=%23F5F5F5&title=hits&edge_flat=false" align="right"/></a>
 
@@ -114,7 +114,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=A4C3FF&height=300&&section=footer&fontSize=60&fontColor=666666" align="middle"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=78ffbb&reversal=true&height=230&&section=footer&fontSize=60&fontColor=666666" align="middle"/><div style="float: left;">
 
 <br/><br/>
 
