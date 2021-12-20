@@ -107,7 +107,7 @@
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&count_private=true&layout=compact&card_width=450&langs_count=8&bg_color=f8f8f8&border_color=e4e2e2&icon_color=32BEBE&title_color=FF9E9B&text_color=666666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&langs_count=8&layout=compact&card_width=445&bg_color=f8f8f8&border_color=e4e2e2&icon_color=32BEBE&title_color=FF9E9B&text_color=666666)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -117,6 +117,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=78ffbb&reversal=true&height=230&&section=footer&fontSize=60&fontColor=666666" align="middle"/><div style="float: left;">
 
 <br/><br/>
+
+
 
 <!--
 **kdgyun/kdgyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
