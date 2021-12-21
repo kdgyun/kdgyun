@@ -65,8 +65,7 @@
 </br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://st-lab.tistory.com"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=stlab.strangers@gmail.com"/></a>&nbsp 
+  <a href="https://st-lab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://st-lab.tistory.com"/></a>&nbsp<a href="https://mail.google.com/mail/?view=cm&fs=1&to=stlab.strangers@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=stlab.strangers@gmail.com"/></a>&nbsp 
 </p>
 
 </br></br></br></br>
