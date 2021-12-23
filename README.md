@@ -106,7 +106,7 @@
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&langs_count=8&layout=compact&card_width=445&bg_color=f8f8f8&border_color=e4e2e2&icon_color=32BEBE&title_color=FF9E9B&text_color=666666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdgyun&langs_count=10&layout=compact&card_width=445&bg_color=f8f8f8&border_color=e4e2e2&icon_color=32BEBE&title_color=FF9E9B&text_color=666666)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
