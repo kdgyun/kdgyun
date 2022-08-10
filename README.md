@@ -1,6 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=27&height=220&section=header&text=KDGYUN&fontSize=80&animation=fadeIn&fontAlign=70&fontAlignY=32&descAlignY=51&descAlign=62)   
 
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=27&height=220&&section=header&text=KDGYUN &fontSize=80&fontAlign=70&fontAlignY=32"/>
 </p>
 
 
